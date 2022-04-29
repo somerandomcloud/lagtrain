@@ -1,6 +1,3 @@
-# lagtrain
- Collection of every lagtrain remix or mv (I could find)
-
 ## Table (Scraped)
 
 These are just scraped off of youtube. Some videos may be offtopic! Scrapes the first page delivered by youtube
